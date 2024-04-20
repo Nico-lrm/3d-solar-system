@@ -27,3 +27,12 @@ Si vous êtes sur ordinateur portable avec une puce graphique dédié :
 
 NVIDIA : "make run" ou alors "__NV_PRIME_RENDER_OFFLOAD=1 __GLX_VENDOR_LIBRARY_NAME=nvidia ./bin/app.out"
 AMD : "DRI_PRIME=1 ./bin/app.out"
+
+## Screenshot de l'application
+
+- Mars
+![Logo](https://github.com/Nico-lrm/3d-solar-system/blob/main/photos/Mars.png)
+- Saturne
+![Logo](https://github.com/Nico-lrm/3d-solar-system/blob/main/photos/Saturne.png)
+- Terre et Soleil
+![Logo](https://github.com/Nico-lrm/3d-solar-system/blob/main/photos/Terre&Soleil.png)
